@@ -138,5 +138,5 @@ usage() {
         }
         printf( "%s\n", msgs[i] );
     }
-    printReleaseInfo( "ireg" );
+    printReleaseInfo( "ibulkreg" );
 }
