@@ -73,6 +73,7 @@ set(
   iquest
   iquota
   ireg
+  ibulkreg
   irepl
   irm
   irmdir
